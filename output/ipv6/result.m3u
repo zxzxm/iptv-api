@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://g.blfrp.cn/https://raw.githubusercontent.com/zxzxm/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-05 18:33:43
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-06 06:30:25
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024078201&livepid=600001859&defn=fhd
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV-1
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024078201&livepid=600001859&defn=fhd
@@ -472,7 +472,7 @@ https://stream1.freetv.fun/xiang-gang-wei-shi-13.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="香港卫视.png" group-title="📡卫视频道",香港卫视
 https://stream1.freetv.fun/xiang-gang-wei-shi-8.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="📡卫视频道",浙江卫视
-https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1767609027-53txbjkvmo0q6as5xnuyocv0fixch6vj-0-cfec32e9c67136913b4d8f40c3f77a5b
+https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1767651625-vyc975p5isebi2nzgz7huygzifodkgff-0-53bc2ea7451b2954afac1e6eca8bbb8b
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="📡卫视频道",浙江卫视
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024054703&livepid=600002520&defn=fhd
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="📡卫视频道",浙江卫视
@@ -504,9 +504,9 @@ https://hls-gateway.vpstv.net/streams/476904.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="📡卫视频道",湖南卫视
 https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="北京卫视.png" group-title="📡卫视频道",北京卫视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1767609018&sign=ad75c359a5963a8608b6ce95f08895a3
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1767651617&sign=8677be325664220c9a7efe80dd83c373
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="北京卫视.png" group-title="📡卫视频道",北京卫视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1767609009&sign=142e0124957bce3b382be3553b926c05
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1767651609&sign=0b2c3589c249303d3f7a4f361f693bcd
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="北京卫视.png" group-title="📡卫视频道",北京卫视
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024052703&livepid=600002309&defn=fhd
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="北京卫视.png" group-title="📡卫视频道",北京卫视
@@ -579,6 +579,8 @@ https://live.lalifeier.eu.org/ahtv/ahws.m3u8?t=1767598498&key=fb3ddfdb59d96888ca
 https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="安徽卫视.png" group-title="📡卫视频道",安徽卫视
 https://live.lalifeier.eu.org/ahtv/ahws.m3u8?t=1767605995&key=746437b4cd509d24615a0c961466b0e1
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="安徽卫视.png" group-title="📡卫视频道",安徽卫视
+https://live.lalifeier.eu.org/ahtv/ahws.m3u8?t=1767648514&key=a1d5472a5b5168f32b271f5da3835e15
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="重庆卫视.png" group-title="📡卫视频道",重庆卫视
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024061103&livepid=600002531&defn=fhd
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="重庆卫视.png" group-title="📡卫视频道",重庆卫视
@@ -664,7 +666,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=guangxi
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="广西卫视.png" group-title="📡卫视频道",广西卫视
 https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="贵州卫视.png" group-title="📡卫视频道",贵州卫视
-https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=3f76caa053fb7a2ef28c466cc0715883&txTime=695B92BD
+https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=7cc41ba0012d46152c83696e64b59bdb&txTime=695C3924
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="贵州卫视.png" group-title="📡卫视频道",贵州卫视
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024061603&livepid=600002490&defn=fhd
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="贵州卫视.png" group-title="📡卫视频道",贵州卫视
@@ -702,7 +704,7 @@ https://hls-gateway.vpstv.net/streams/708822.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="海南卫视.png" group-title="📡卫视频道",海南卫视
 https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="河北卫视.png" group-title="📡卫视频道",河北卫视
-https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1767616223&k=fdd849616b11a45749b38c9d9ff47f0e
+https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1767658821&k=a97b325e66dc2cb675bbe319fc4df59f
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="河北卫视.png" group-title="📡卫视频道",河北卫视
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024171503&livepid=600002493&defn=fhd
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="河北卫视.png" group-title="📡卫视频道",河北卫视
@@ -722,7 +724,7 @@ https://hls-gateway.vpstv.net/streams/476920.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="河北卫视.png" group-title="📡卫视频道",河北卫视
 https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1963555056&k=a2a2ee6412906c8b2d9a6fd19116c6d9
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="河南卫视.png" group-title="📡卫视频道",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=b79550f7cb055f32403825c377160988&wsTime=1767623408&wsSession=c225bb4a0d59c6716da40558-176760900891678&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=0762065a0b93af8150d48e3c8ae8f88a&wsTime=1767666008&wsSession=c225bb4a0d59c6716da40558-176765160845545&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="河南卫视.png" group-title="📡卫视频道",河南卫视
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024059703&livepid=600002525&defn=fhd
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="河南卫视.png" group-title="📡卫视频道",河南卫视
@@ -742,7 +744,7 @@ https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="河南卫视.png" group-title="📡卫视频道",河南卫视
 http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=da619de78751399bd35fcd6574f9dd2e&wsTime=1767621649
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="吉林卫视.png" group-title="📡卫视频道",吉林卫视
-https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=a5ad0093e16a665c94d67cd3cdefc8e9&txTime=695BCB05
+https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=11df470bd0344b93c4a6aaa2616eed25&txTime=695C716B
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="吉林卫视.png" group-title="📡卫视频道",吉林卫视
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025561503&livepid=600190405&defn=fhd
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="吉林卫视.png" group-title="📡卫视频道",吉林卫视
@@ -816,7 +818,7 @@ https://hls-gateway.vpstv.net/streams/708828.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
 https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
-https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=1942f0835d5a419fa72083c7da75f38f
+https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=467b6eebcc34442894bf6cb988d7dec2
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025561203&livepid=600190401&defn=fhd
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
@@ -864,7 +866,7 @@ https://hls-gateway.vpstv.net/streams/708860.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="山东卫视.png" group-title="📡卫视频道",山东卫视
 https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="山西卫视.png" group-title="📡卫视频道",山西卫视
-https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/u3sh8gV.m3u8
+https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/81sqrR0.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="山西卫视.png" group-title="📡卫视频道",山西卫视
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025560803&livepid=600190407&defn=fhd
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="山西卫视.png" group-title="📡卫视频道",山西卫视
@@ -881,8 +883,10 @@ https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1767598498&key=6b643638716e70ac9
 https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="山西卫视.png" group-title="📡卫视频道",山西卫视
 https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1767605995&key=827c82540f74194349f706ffbafb86f4
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="山西卫视.png" group-title="📡卫视频道",山西卫视
+https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1767648514&key=f6e5b214bd6f2a63dbd26848f82406ce
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="陕西卫视.png" group-title="📡卫视频道",陕西卫视
-http://stream.snrtv.com/sxbc-star-huQSUX.m3u8
+http://stream.snrtv.com/sxbc-star-qsuA07.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="陕西卫视.png" group-title="📡卫视频道",陕西卫视
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025561103&livepid=600190400&defn=fhd
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="陕西卫视.png" group-title="📡卫视频道",陕西卫视
@@ -956,7 +960,7 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="天津卫视.png" group-title="📡卫视频道",天津卫视
 https://hls-gateway.vpstv.net/streams/708872.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="西藏卫视.png" group-title="📡卫视频道",西藏卫视
-https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=61f0a9366baf81c5c612d60e8385046f&time=695b92ac
+https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=af051876842e48b562f95801195f844e&time=695c3915
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="西藏卫视.png" group-title="📡卫视频道",西藏卫视
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025558003&livepid=600190403&defn=fhd
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="西藏卫视.png" group-title="📡卫视频道",西藏卫视
@@ -1002,4 +1006,4 @@ https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="云南卫视.png" group-title="📡卫视频道",云南卫视
 https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1767605995&key=b0ecf21015fc9c7f0ed8d9c82a06f0d4
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="云南卫视.png" group-title="📡卫视频道",云南卫视
-https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
+https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1767648514&key=456ad701c4b759a61e407c7c92ecc1f5
