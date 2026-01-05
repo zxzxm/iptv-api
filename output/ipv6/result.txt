@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-05 17:39:18,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024078201&livepid=600001859&defn=fhd
+2026-01-05 18:33:43,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024078201&livepid=600001859&defn=fhd
 
 📺央视频道,#genre#
 CCTV-1,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024078201&livepid=600001859&defn=fhd
@@ -239,7 +239,7 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-11.m3u8
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-13.m3u8
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-8.m3u8
-浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1767600629-gloqotv0yprbld26izht0ep7x0ju9tmc-0-3c5f908c55feba878e297a585438e7eb
+浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1767609027-53txbjkvmo0q6as5xnuyocv0fixch6vj-0-cfec32e9c67136913b4d8f40c3f77a5b
 浙江卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024054703&livepid=600002520&defn=fhd
 浙江卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/zj.js?id=01
 浙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -255,8 +255,8 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 湖南卫视,https://hls-gateway.vpstv.net/streams/476904.m3u8
 湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1767600621&sign=e01d18462b60b35c04a7d01c7ca688b1
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1767600611&sign=b9ad78be7e128d46c3317a52279cbf8c
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1767609018&sign=ad75c359a5963a8608b6ce95f08895a3
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1767609009&sign=142e0124957bce3b382be3553b926c05
 北京卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024052703&livepid=600002309&defn=fhd
 北京卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/bjtime.js?id=bjws4k
 北京卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/bjtime.js?id=bjws
@@ -292,6 +292,7 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 安徽卫视,https://hls-gateway.vpstv.net/streams/708868.m3u8
 安徽卫视,https://live.lalifeier.eu.org/ahtv/ahws.m3u8?t=1767598498&key=fb3ddfdb59d96888ca6c76d09f3b619c
 安徽卫视,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
+安徽卫视,https://live.lalifeier.eu.org/ahtv/ahws.m3u8?t=1767605995&key=746437b4cd509d24615a0c961466b0e1
 重庆卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024061103&livepid=600002531&defn=fhd
 重庆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
@@ -334,7 +335,7 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 广西卫视,https://hls-gateway.vpstv.net/streams/708864.m3u8
 广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi
 广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
-贵州卫视,https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=c1fef4bbeaa69741e3160a817ab20c36&txTime=695B6F97
+贵州卫视,https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=3f76caa053fb7a2ef28c466cc0715883&txTime=695B92BD
 贵州卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024061603&livepid=600002490&defn=fhd
 贵州卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/gz.js?id=ch01
 贵州卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -343,6 +344,7 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 贵州卫视,https://hls-gateway.vpstv.net/streams/708850.m3u8
 贵州卫视,https://live.lalifeier.eu.org/gzstv/gzws.m3u8?t=1767598498&key=1f25623d5df4ba2d68efa8cfc95e76b6
 贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
+贵州卫视,https://live.lalifeier.eu.org/gzstv/gzws.m3u8?t=1767605995&key=bac19935661ab0e93b0d8b6a4e41ca19
 海南卫视,https://livelyws.chinamcache.com/live/zb04.m3u8
 海南卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024055603&livepid=600002506&defn=fhd
 海南卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/hainan.js?id=hnws
@@ -352,7 +354,7 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 海南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226465/index.m3u8
 海南卫视,https://hls-gateway.vpstv.net/streams/708822.m3u8
 海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1767607825&k=17a1a46b279c1f7b4d907ea95ad98311
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1767616223&k=fdd849616b11a45749b38c9d9ff47f0e
 河北卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024171503&livepid=600002493&defn=fhd
 河北卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
@@ -362,7 +364,7 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
 河北卫视,https://hls-gateway.vpstv.net/streams/476920.m3u8
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1963555056&k=a2a2ee6412906c8b2d9a6fd19116c6d9
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=0e5286328c11510fea208787cfb8deb0&wsTime=1767615007&wsSession=489015b3960927a7e862635c-176760060850357&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=b79550f7cb055f32403825c377160988&wsTime=1767623408&wsSession=c225bb4a0d59c6716da40558-176760900891678&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 河南卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024059703&livepid=600002525&defn=fhd
 河南卫视,https://migu.188766.xyz/?migutoken=6b175df78b7089b34b5ba35496f0e564&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
@@ -371,7 +373,8 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 河南卫视,https://hls-gateway.vpstv.net/streams/708871.m3u8
 河南卫视,https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1767598498&key=d88cb106b5b83d44387ce5195a8de924
 河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
-吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=7d6badb0880f21ee04614e1a789518cd&txTime=695BAA37
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=da619de78751399bd35fcd6574f9dd2e&wsTime=1767621649
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=a5ad0093e16a665c94d67cd3cdefc8e9&txTime=695BCB05
 吉林卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025561503&livepid=600190405&defn=fhd
 吉林卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 吉林卫视,https://migu.188766.xyz/?migutoken=a9010441179c241d9edfff3eefe23c08&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
@@ -380,6 +383,7 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 吉林卫视,https://live.lalifeier.eu.org/jlntv/jlws.m3u8?t=1767598498&key=ec0aa738c7d1f59bf40536ffb182a81b
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
+吉林卫视,https://live.lalifeier.eu.org/jlntv/jlws.m3u8?t=1767605995&key=f0dd34f4164513ad81b11509e0c963b5
 江苏卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2024171103&livepid=600002521&defn=fhd
 江苏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 江苏卫视,https://migu.188766.xyz/?migutoken=0f877f215fb87097652cf0293f01e0c9&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
@@ -407,7 +411,7 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 辽宁卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226254/index.m3u8
 辽宁卫视,https://hls-gateway.vpstv.net/streams/708828.m3u8
 辽宁卫视,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=b3f69d0339924b879b32e14fea89f316
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=1942f0835d5a419fa72083c7da75f38f
 内蒙古卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025561203&livepid=600190401&defn=fhd
 内蒙古卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 内蒙古卫视,https://migu.188766.xyz/?migutoken=1e53f8795a55cf6f20e03bca4ebb56f7&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
@@ -439,6 +443,7 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 山西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-25.m3u8
 山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1767598498&key=6b643638716e70ac9849c3211f8dcc16
 山西卫视,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
+山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1767605995&key=827c82540f74194349f706ffbafb86f4
 陕西卫视,http://stream.snrtv.com/sxbc-star-huQSUX.m3u8
 陕西卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025561103&livepid=600190400&defn=fhd
 陕西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -476,7 +481,7 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 天津卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226489/1.m3u8
 天津卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226502/1.m3u8
 天津卫视,https://hls-gateway.vpstv.net/streams/708872.m3u8
-西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=8d794005be2cfde341d9ca1d10692eb1&time=695b71dd
+西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=61f0a9366baf81c5c612d60e8385046f&time=695b92ac
 西藏卫视,javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/ysp.js?cnlid=2025558003&livepid=600190403&defn=fhd
 西藏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
@@ -497,4 +502,6 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 云南卫视,https://hls-gateway.vpstv.net/streams/708863.m3u8
 云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1767598498&key=988e962570f505222d3587ee8c676f92
 云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
+云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
+云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1767605995&key=b0ecf21015fc9c7f0ed8d9c82a06f0d4
 云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
