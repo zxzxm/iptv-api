@@ -24,4 +24,3 @@ https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
 https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/main/iptv.m3u
 https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/main/iptv.m3u
-https://raw.githubusercontent.com/mytv-android/mytvJS/main/js_github.m3u
