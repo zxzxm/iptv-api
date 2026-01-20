@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-20 18:37:02,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
+2026-01-21 06:30:18,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
@@ -111,7 +111,7 @@ CCTV-10,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 CCTV-10,https://www.freetv.top/migu/624878405.m3u8?migutoken=e7e8abe9ae322869a93e8450014e08c5949217331c53007abb9f6eee64b06cc42f81828befee8b129005bcdebf805a1bbd19f0949e8329cf7ff4ab9379e930cfb8185ddf66c83b972ea6481e86
 CCTV-10,https://hls-gateway.vpstv.net/streams/476896.m3u8
 CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
-CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8
+CCTV-10,https://migu.188766.xyz/?migutoken=a3b126baa1404c962561e26e7573d92c&id=CCTV10&type=yy
 CCTV-11,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
 CCTV-11,https://migu.188766.xyz/?migutoken=adf985ee23b98a42ef9d96f9e0f06765&id=CCTV11&type=yy
 CCTV-11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
@@ -315,10 +315,10 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 东方卫视,https://hls-gateway.vpstv.net/streams/709068.m3u8
 东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1767598498&key=ec4729883fe5f820664acc27b73ff5dc
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
-东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8
 东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1767605995&key=b6bdc4cf858217fce14d19de5b20c324
 东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1767648514&key=a6eae5edbb5113afed410a223f79fb36
 东方卫视,https://migu.188766.xyz/?migutoken=2abdd9c2eaf3855b2a361e81e57b15e3&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
+东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1767677545&key=92a96995957a15fe25d587bf65c67141
 东南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
 东南卫视,http://[2409:8087:1a01:df::4035]/TVOD/88888888/224/3221225950/main.m3u8
@@ -348,7 +348,7 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 广西卫视,https://hls-gateway.vpstv.net/streams/708864.m3u8
 广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi
 广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
-广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
+广西卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215605/main.m3u8?stbid=
 贵州卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 贵州卫视,http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225974/main.m3u8
 贵州卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226474/index.m3u8
@@ -395,10 +395,10 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 吉林卫视,https://hls-gateway.vpstv.net/streams/708844.m3u8
 吉林卫视,https://live.lalifeier.eu.org/jlntv/jlws.m3u8?t=1767598498&key=ec0aa738c7d1f59bf40536ffb182a81b
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
-吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
 吉林卫视,https://live.lalifeier.eu.org/jlntv/jlws.m3u8?t=1767605995&key=f0dd34f4164513ad81b11509e0c963b5
 吉林卫视,https://live.lalifeier.eu.org/jlntv/jlws.m3u8?t=1767648514&key=9216e0a45909c33a8fc36bbab275bd07
 吉林卫视,https://migu.188766.xyz/?migutoken=eea5d3296b3ec6f0149fcbe99f0dccf8&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+吉林卫视,https://live.lalifeier.eu.org/jlntv/jlws.m3u8?t=1767677545&key=c12fae034cfba3e811f54a121990ef5f
 江苏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 江苏卫视,https://migu.188766.xyz/?migutoken=0f877f215fb87097652cf0293f01e0c9&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
 江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
@@ -554,8 +554,8 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 云南卫视,https://hls-gateway.vpstv.net/streams/708863.m3u8
 云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1767598498&key=988e962570f505222d3587ee8c676f92
 云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
-云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
 云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1767605995&key=b0ecf21015fc9c7f0ed8d9c82a06f0d4
 云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1767648514&key=456ad701c4b759a61e407c7c92ecc1f5
 云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1767677545&key=bdb7d1299b977153155e041ae578ec91
 云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1767692049&key=90dca7e9aa202ec581279376f0eb6e28
+云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1767734893&key=9d3bd32390e396df78aae3162964e0a9
